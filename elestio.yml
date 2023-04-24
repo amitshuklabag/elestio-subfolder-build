@@ -26,4 +26,4 @@ environments:
        value: 'production'
 webUI:
   - url: "https://[CI_CD_DOMAIN]"
-    label: "Website"              
+    label: "Website URL"              
