@@ -11,7 +11,7 @@ import {
 } from "@react-three/drei";
 
 function App() {
-  console.log("Depl")
+  console.log("Deplo")
   return (
     <div className="App">
       <Canvas shadows>
